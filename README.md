@@ -7,11 +7,11 @@
 >🌱 Estudante de Desenvolvimento Web | Criando, aprendendo e evoluindo um código de cada vez.
 
 ## ✨Sobre mim
-- 👩🏻‍💻 Atualmente estou estudando Desenvolvimento Web e construindo minha jornada na programação.
+ 👩🏻‍💻 Atualmente estou estudando Desenvolvimento Web e construindo minha jornada na programação.
 <br>
-- 📚 Estou aprendendo novas tecnologias, criando projetos e colocando em prática tudo o que estudo.
+ 📚 Estou aprendendo novas tecnologias, criando projetos e colocando em prática tudo o que estudo.
 <br>
-- 🚀 Meu objetivo é evoluir cada vez mais e transformar minhas ideias em projetos reais.
+ 🚀 Meu objetivo é evoluir cada vez mais e transformar minhas ideias em projetos reais.
 
 ## 🛠️Tecnologias que estou aprendendo
 <div align="center">
@@ -70,15 +70,15 @@
 </div>
 
 ## 🎯Atualmente
-- 📖 Estudando desenvolvimento web
+ 📖 Estudando desenvolvimento web
 <br>
-- 🧩 Criando meus primeiros projetos
+ 🧩 Criando meus primeiros projetos
 <br>
-- 🌱 Aprendendo boas práticas de programação
+ 🌱 Aprendendo boas práticas de programação
 <br>
-- 🔧 Praticando Git e GitHub
+ 🔧 Praticando Git e GitHub
 <br>
-- 🚀 Construindo meu portfólio
+ 🚀 Construindo meu portfólio 
 
 ## 💭Um pouco do que acredito
 >"Não preciso saber tudo para começar. Preciso começar para aprender." 💜
