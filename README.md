@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="175" height="45">
 </a>
 
-<a href="mailto:anaabiatrizsilva@gmail.com">
+<a href="anaabiatrizsilva@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="175" height="45">
 </a>
 
