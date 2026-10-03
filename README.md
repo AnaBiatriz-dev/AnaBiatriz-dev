@@ -89,7 +89,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=AnaBiatriz-dev&show_icons=true&theme=dark&hide_border=true" height="180" width="400">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBiatriz&layout=compact&theme=dark&hide_border=true" height="180" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaBiatriz&layout=compact&theme=dark&hide_border=true" height="200" width="400">
 
 </div>
 
@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="175" height="45">
 </a>
 
-<a href="anaabiatrizsilva@gmail.com">
+<a href="mailto:anaabiatrizsilva@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="175" height="45">
 </a>
 
