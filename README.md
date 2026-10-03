@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://media.istockphoto.com/id/2193322709/pt/foto/black-dark-deep-blue-violet-indigo-purple-fuchsia-magenta-pink-abstract-background-color.jpg?s=612x612&w=0&k=20&c=elLOkCrOp8nrMyI7qYCY2mL8jalw1wA3EK9NrkwtKg8=" width="100%" alt="Oiie, eu sou a Ana Beatriz!">
-
 <h1>👩🏻‍💻 Oiie, eu sou a Ana Beatriz! 👋🏻</h1>
-
-</div>
 
 >🌱 Estudante de Desenvolvimento Web | Criando, aprendendo e evoluindo um código de cada vez.
 
@@ -59,6 +53,7 @@
 | Desenvolvimento | ████░░░░░░ | Evoluindo |
 
 ## 🎯 Atualmente
+<br>
 - 📖 Estudando desenvolvimento web
 <br>
 - 🧩 Criando meus primeiros projetos
