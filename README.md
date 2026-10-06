@@ -93,13 +93,7 @@
 
 </div>
 
-<h2>🐍 Minhas contribuições</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaBiatriz-dev/AnaBiatriz-dev/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AnaBiatriz-dev/AnaBiatriz-dev/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AnaBiatriz-dev/AnaBiatriz-dev/output/github-snake.svg">
-</picture>
+![snake animation](https://github.com/<AnaBiatriz-dev>/<AnaBiatriz-dev>/blob/output/github-contribution-grid-snake2.svg)
 
 ## 🌐Onde me encontrar
 
